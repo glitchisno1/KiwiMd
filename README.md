@@ -23,9 +23,17 @@ Start by forking this repository and giving it a ⭐ to support TOJI MD SUPPORT
      
 [![TOJI MD Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/Johanlieb34/KIWIMD/fork)
 
-#### DEPLOY TO PANEL
+### 2. Get Session ID
 
-1. JUST SIGN IN WITH DISCORD .
+You will need a session ID Click the button below to obtain your session ID:
+
+<a href='https://kiwi-md-pair-code.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
+</a>
+<br>
+
+
+3. JUST SIGN IN WITH DISCORD .
     <br>
 <a href='https://dashboard.katabump.com/auth/login#c0a726' target="_blank"><img alt='Render' src='https://img.shields.io/badge/DEPLOY-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 ## 👑 `BOT OWNER` 
