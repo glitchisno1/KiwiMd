@@ -18,3 +18,32 @@ If you find my work helpful and want to support me, consider buying me a coffee!
 | Work ➜ |  ✅ |   ✅  |    ✅  |     ✅   |   ✅  | ✅ |   ✅ |  ✅ |  ✅   | ✅  |    ✅   |  ✅  |
 
 
+Start by forking this repository and giving it a ⭐ to support TOJI MD SUPPORT
+     To set up the TOJI MD quickly, first fork this repository:
+     
+[![TOJI MD Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/Johanlieb34/KIWIMD/fork)
+
+#### DEPLOY TO PANEL
+
+1. JUST SIGN IN WITH DISCORD .
+    <br>
+<a href='https://dashboard.katabump.com/auth/login#c0a726' target="_blank"><img alt='Render' src='https://img.shields.io/badge/DEPLOY-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+## 👑 `BOT OWNER` 
+<a href="https://github.com/Johanlieb34"><img src="https://github.com/Johanlieb34.png" width="250" height="250" alt="💕💕💕"/></a>
+## , ```CONTACT ME ON WHATSAPP```
+
+## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+ <br> 
+<p align="center">
+<a href="https://wa.me/2347030229711"><img src="https://img.shields.io/badge/Contact KING JOHAN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://github.com/johanlieb34/followers"><img title="Followers" src="https://img.shields.io/github/followers/Johanlieb34?color=blue&style=flat-square"></a>
+<a href="https://github.com/johanlieb34/KIWIMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Johanlieb34/KIWIMD?color=red&style=flat-square"></a>
+<a href="https://github.com/johanlieb34//watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Johanlieb34/kIWIMD?label=Watchers&color=yellow&style=flat-square"></a>
+
+
+![Forks](https://img.shields.io/github/forks/Johanlieb34/KIWIMD?style=social)
+
+#### ```KING JOHAN PROFILE VIEWS 👑```
+![Visitor Count](https://profile-counter.glitch.me/Johanlieb34/count.svg)
+
