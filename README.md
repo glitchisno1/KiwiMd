@@ -27,11 +27,16 @@ Start by forking this repository and giving it a ⭐ to support TOJI MD SUPPORT
 
 You will need a session ID Click the button below to obtain your session ID:
 
-<a href='https://kiwi-md-pair-code.onrender.com' target="_blank">
+<a href='https://kiwi-session.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
 
+## session ID 2 incase the other didn't work 
+<a href='https://marked-venus-dandadaneeeeeomomkk-daf3734c.koyeb.app/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
+</a>
+<br>
 
 3. JUST SIGN IN WITH DISCORD .
     <br>
