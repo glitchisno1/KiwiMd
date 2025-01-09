@@ -1,3 +1,7 @@
+
+ detailed tutorial on YouTube:
+[![Silva MD Bot YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/8NydgsC2nZI?si=Ep8kqF95-XF-LIeQ)
+
 ## ☕ Buy Me a Coffee
 
 If you find my work helpful and want to support me, consider buying me a coffee! Your support helps me keep going and create more awesome projects.  
