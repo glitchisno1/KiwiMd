@@ -25,16 +25,16 @@ Start by forking this repository and giving it a ⭐ to support TOJI MD SUPPORT
 
 ### 2. Get Session ID
 
-You will need a session ID Click the button below to obtain your session ID remember to put session id on .env file:
+You will need a session ID to run . Click the button below to obtain your session ID:
 
-<a href='https://web-pair-qr-nvvr.onrender.com/'target="_blank">
+<a href='https://industrial-celestyn-dandadaneeeeeomomkk-2ee5c55e.koyeb.app/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
-
-## incase the forst sote didn't work
-<a href='https://industrial-celestyn-dandadaneeeeeomomkk-2ee5c55e.koyeb.app/'target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID2-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
+ 
+ ## Session ID 2 incase the first one didn't work
+<a href='https://web-pair-qr-nvvr.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
 
